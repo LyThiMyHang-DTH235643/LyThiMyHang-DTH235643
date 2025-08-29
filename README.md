@@ -1,9 +1,9 @@
 🔥 About Me
-🔭 I’m currently working on Coding projects at school
-🌱 I’m currently learning Algorithms, Data Structures, and Software Development
-👯 I’m looking to collaborate on Interesting coding projects
-💬 Ask me about Python, C, C++, Java, SQL, and C#
-⚡ Fun fact: I enjoy coding with ☕ coffee and exploring 💡 new tech
+- 🔭 I’m currently working on Coding projects at school
+- 🌱 I’m currently learning Algorithms, Data Structures, and Software Development
+- 👯 I’m looking to collaborate on Interesting coding projects
+- 💬 Ask me about Python, C, C++, Java, SQL, and C#
+- ⚡ Fun fact: I enjoy coding with ☕ coffee and exploring 💡 new tech
 
 ## 🌐 Socials:
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/https://www.instagram.com/) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:hang_dth235643@student.agu.edu.vn) 
